@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaopeng.xui.widget.XLinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="horizontal" android:id="@+id/anim_view" android:layout_width="match_parent" android:layout_height="match_parent" android:weightSum="2">
+    <com.xiaopeng.xui.widget.XImageView android:id="@+id/img_left_mask" android:background="@drawable/mask_sr_left" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1"/>
+    <com.xiaopeng.xui.widget.XImageView android:id="@+id/img_right_mask" android:background="@drawable/mask_sr_right" android:layout_width="0dp" android:layout_height="match_parent" android:layout_weight="1"/>
+</com.xiaopeng.xui.widget.XLinearLayout>

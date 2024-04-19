@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaopeng.instrument.widget.ITNMediaCardView xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/info_media" android:visibility="gone" android:layout_width="@dimen/info_width" android:layout_height="@dimen/info_height" android:layout_marginTop="@dimen/info_margin_top" android:layout_marginStart="@dimen/info_margin_start" android:layout_marginEnd="@dimen/info_margin_end"/>

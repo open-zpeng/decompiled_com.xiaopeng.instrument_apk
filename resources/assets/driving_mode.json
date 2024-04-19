@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "STANDARD",
+    "background": "bottom_bar_driving_mode_standard_hint"
+  },
+  {
+    "id": 2,
+    "name": "ECO",
+    "background": "bottom_bar_driving_mode_eco_hint"
+  },
+  {
+    "id": 3,
+    "name": "SPORT",
+    "background": "bottom_bar_driving_mode_sport_hint"
+  },
+  {
+    "id": 4,
+    "name": "XPEDAL",
+    "background": "bottom_bar_driving_mode_xpedal_hint"
+
+  },
+  {
+    "id": 5,
+    "name": "COMFORT",
+    "background": "bottom_bar_driving_mode_comfort_hint"
+
+  }
+]

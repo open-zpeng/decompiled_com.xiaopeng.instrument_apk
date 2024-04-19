@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaopeng.xui.widget.XRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="@drawable/trafficlight_bg" android:layout_width="194dp" android:layout_height="78dp">
+    <com.xiaopeng.xui.widget.XImageView android:id="@+id/traffic_left_mask" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16dp" android:src="@drawable/sd_trafficlight_empty_left" android:layout_centerVertical="true"/>
+    <com.xiaopeng.xui.widget.XImageView android:id="@+id/traffic_right_mask" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16dp" android:src="@drawable/sd_trafficlight_empty_right" android:layout_alignParentRight="true" android:layout_centerVertical="true"/>
+    <com.xiaopeng.xui.widget.XImageView android:id="@+id/traffic_straight_mask" android:layout_width="48dp" android:layout_height="48dp" android:src="@drawable/sr_circle_inactvie_day" android:layout_centerInParent="true"/>
+    <com.xiaopeng.xui.widget.XImageView android:id="@+id/traffic_left_light" android:visibility="gone" android:layout_width="48dp" android:layout_height="48dp" android:layout_marginLeft="16dp" android:layout_centerVertical="true"/>
+    <com.xiaopeng.xui.widget.XImageView android:id="@+id/traffic_straight_light" android:visibility="gone" android:layout_width="48dp" android:layout_height="48dp" android:layout_centerInParent="true"/>
+    <com.xiaopeng.xui.widget.XImageView android:id="@+id/traffic_right_light" android:visibility="gone" android:layout_width="48dp" android:layout_height="48dp" android:layout_marginRight="16dp" android:layout_alignParentRight="true" android:layout_centerVertical="true"/>
+</com.xiaopeng.xui.widget.XRelativeLayout>

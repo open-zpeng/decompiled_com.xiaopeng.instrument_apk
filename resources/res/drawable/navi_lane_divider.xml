@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <padding android:top="@dimen/navi_lane_divider_padding_top" android:bottom="@dimen/navi_lane_divider_padding_bottom"/>
+    <size android:width="@dimen/navi_lane_divider_width"/>
+    <solid android:color="@color/navi_lane_divider_color"/>
+</shape>

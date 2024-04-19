@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "name": "关闭",
+    "img_res_name": ""
+  },
+  {
+    "id": 1,
+    "name": "准备",
+    "img_res_name": "ic_lcc_ready"
+  },
+  {
+    "id": 2,
+    "name": "启动",
+    "img_res_name": "ic_lcc_start"
+  },
+  {
+    "id": 3,
+    "name": "故障",
+    "img_res_name": "ic_lcc_error"
+  },
+  {
+    "id": 4,
+    "name": "失败",
+    "img_res_name": "ic_lcc_fail"
+  },
+  {
+    "id": 5,
+    "name": "lcc左",
+    "img_res_name": "ic_lcc_left"
+  },
+  {
+    "id": 6,
+    "name": "lcc右",
+    "img_res_name": "ic_lcc_right"
+  },
+  {
+    "id": 7,
+    "name": "APA",
+    "img_res_name": "ic_lcc_start"
+  },
+  {
+    "id": 8,
+    "name": "暂停",
+    "img_res_name": "ic_lcc_start"
+  },
+  {
+    "id": 12,
+    "name": "初始化",
+    "img_res_name": "ic_lcc_init"
+  }
+]

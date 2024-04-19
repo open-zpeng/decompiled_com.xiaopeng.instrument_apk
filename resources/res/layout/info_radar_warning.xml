@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaopeng.xui.widget.XRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="@dimen/info_width" android:layout_height="@dimen/info_height" android:layout_centerInParent="true">
+    <com.xiaopeng.xui.widget.XImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/radar_model_margin_top" android:src="@drawable/bg_card_radar_model" android:layout_centerHorizontal="true"/>
+    <com.xiaopeng.xui.widget.XImageView android:id="@+id/car_front_body" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/radar_car_model_margin_top" android:src="@drawable/bg_card_radar_car_front_purple" android:layout_centerHorizontal="true"/>
+    <com.xiaopeng.instrument.widget.FrontRadarWarningView android:id="@+id/frw_radar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/radar_model_margin_top" android:layout_centerHorizontal="true"/>
+    <com.xiaopeng.xui.widget.XTextView android:textSize="@dimen/text_size_44" android:id="@+id/tv_radar_distance" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/radar_text_margin_bottom" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" style="@style/RadarDistanceText"/>
+</com.xiaopeng.xui.widget.XRelativeLayout>

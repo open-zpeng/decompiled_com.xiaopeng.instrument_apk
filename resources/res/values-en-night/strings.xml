@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="charge_appoint_start_time">&lt;font &gt; &lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/font&gt; &lt;font color=#5B5B5B&gt;Start&lt;/font&gt;</string>
+    <string name="charge_expect_remain_time_hour">&lt;font&gt; &lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt; &lt;/font&gt; &lt;font color=#5B5B5B&gt;hr&lt;/font&gt;</string>
+    <string name="charge_expect_remain_time_hour_minute">&lt;font&gt; &lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt; &lt;/font&gt; &lt;font color=#5B5B5B&gt;hr&lt;/font&gt; &lt;font&gt; &lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt; &lt;/font&gt; &lt;font color=#5B5B5B&gt;min&lt;/font&gt;</string>
+    <string name="charge_expect_remain_time_minute">&lt;font&gt; &lt;big&gt;&lt;big&gt;&lt;big&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/big&gt;&lt;/big&gt;&lt;/big&gt; &lt;/font&gt; &lt;font color=##5B5B5B&gt;min&lt;/font&gt;</string>
+</resources>

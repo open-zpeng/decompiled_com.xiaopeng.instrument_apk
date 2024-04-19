@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaopeng.xui.widget.XRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_gravity="top|center_horizontal" android:background="@drawable/bg_gears_on" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <com.xiaopeng.xui.widget.XTextView android:textSize="@dimen/text_size_80" android:textColor="@color/transition_gear_value_color" android:gravity="center" android:id="@+id/transition_gear_value" android:layout_width="@dimen/car_gear_on_width" android:layout_height="@dimen/car_gear_on_height" android:layout_marginTop="@dimen/car_gear_on_margin_top" android:layout_centerHorizontal="true" style="@style/font_lato_bold"/>
+</com.xiaopeng.xui.widget.XRelativeLayout>

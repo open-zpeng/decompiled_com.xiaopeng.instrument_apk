@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "text": "前方事故",
+    "img_res_name": "ic_mid_normal_traffic_accident"
+  },
+  {
+    "id": 2,
+    "text": "前方施工",
+    "img_res_name": "ic_mid_normal_traffic_construction"
+  }
+]

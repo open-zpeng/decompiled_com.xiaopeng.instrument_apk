@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaopeng.instrument.widget.sr.SRMediaCardView xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/info_media" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/navi_sr_card_left_start"/>

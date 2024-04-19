@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaopeng.xui.widget.XLinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <com.xiaopeng.xui.widget.XTextView android:id="@+id/gear_p" android:background="@drawable/selector_gear_p_bg" android:visibility="visible" android:layout_width="@dimen/car_gear_big_width" android:layout_height="@dimen/car_gear_big_height" android:layout_marginStart="@dimen/car_gear_big_margin_start"/>
+    <com.xiaopeng.xui.widget.XTextView android:id="@+id/gear_r" android:background="@drawable/selector_gear_r_bg" android:visibility="visible" android:layout_width="@dimen/car_gear_big_width" android:layout_height="@dimen/car_gear_big_height" android:layout_marginStart="@dimen/car_gear_big_margin_start"/>
+    <com.xiaopeng.xui.widget.XTextView android:id="@+id/gear_n" android:background="@drawable/selector_gear_n_bg" android:visibility="visible" android:layout_width="@dimen/car_gear_big_width" android:layout_height="@dimen/car_gear_big_height" android:layout_marginStart="@dimen/car_gear_big_margin_start"/>
+    <com.xiaopeng.xui.widget.XTextView android:id="@+id/gear_d" android:background="@drawable/selector_gear_d_bg" android:visibility="visible" android:layout_width="@dimen/car_gear_big_width" android:layout_height="@dimen/car_gear_big_height" android:layout_marginStart="@dimen/car_gear_big_margin_start"/>
+</com.xiaopeng.xui.widget.XLinearLayout>

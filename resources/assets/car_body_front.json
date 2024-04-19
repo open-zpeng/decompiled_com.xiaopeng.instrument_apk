@@ -1,0 +1,77 @@
+[
+  {
+    "id": 0,
+    "name": "无效值",
+    "img_res_front_name": "bg_card_radar_car_front_purple"
+  },
+  {
+    "id": 1,
+    "name": "红色",
+    "img_res_front_name": "bg_card_radar_car_front_red"
+  },
+  {
+    "id": 2,
+    "name": "素白色",
+    "img_res_front_name": "bg_card_radar_car_front_white"
+  },
+  {
+    "id": 3,
+    "name": "暗夜黑",
+    "img_res_front_name": "bg_card_radar_car_front_black"
+  },
+  {
+    "id": 4,
+    "name": "星湖灰",
+    "img_res_front_name": "bg_card_radar_car_front_grey"
+  },
+  {
+    "id": 5,
+    "name": "银色",
+    "img_res_front_name": "bg_card_radar_car_front_purple"
+  },
+  {
+    "id": 6,
+    "name": "咖啡色",
+    "img_res_front_name": "bg_card_radar_car_front_purple"
+  },
+  {
+    "id": 7,
+    "name": "蓝色",
+    "img_res_front_name": "bg_card_radar_car_front_purple"
+  },
+  {
+    "id": 8,
+    "name": "紫色",
+    "img_res_front_name": "bg_card_radar_car_front_purple"
+  },
+  {
+    "id": 9,
+    "name": "黄色",
+    "img_res_front_name": "bg_card_radar_car_front_purple"
+  },
+  {
+    "id": 10,
+    "name": "绿色",
+    "img_res_front_name": "bg_card_radar_car_front_green"
+  },
+  {
+    "id": 11,
+    "name": "香槟色",
+    "img_res_front_name": "bg_card_radar_car_front_purple"
+  },
+  {
+    "id": 12,
+    "name": "霜月白",
+    "img_res_front_name": "bg_card_radar_car_front_white"
+  },
+  {
+    "id": 13,
+    "name": "星际绿",
+    "img_res_front_name": "bg_card_radar_car_front_green"
+  },
+  {
+    "id": 14,
+    "name": "新月银",
+    "img_res_front_name": "bg_card_radar_car_front_silver"
+  }
+]

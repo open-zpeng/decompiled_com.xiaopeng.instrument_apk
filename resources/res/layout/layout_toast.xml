@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaopeng.xui.widget.XRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/waring_root_view" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <com.xiaopeng.xui.widget.XImageView android:id="@+id/toast_shadow" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <com.xiaopeng.xui.widget.XLinearLayout android:id="@+id/waring_bg_view" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true">
+        <com.xiaopeng.xui.widget.XImageView android:layout_gravity="center" android:id="@+id/warning_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/waring_margin_start"/>
+        <com.xiaopeng.xui.widget.XTextView android:textSize="@dimen/warning_text_size" android:textColor="@color/warning_text_color" android:gravity="center" android:layout_gravity="center" android:id="@+id/warning_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/waring_margin_top" android:layout_marginBottom="@dimen/waring_margin_bottom" android:maxLines="2" android:layout_marginStart="@dimen/waring_margin_start" android:layout_marginEnd="@dimen/waring_margin_end"/>
+    </com.xiaopeng.xui.widget.XLinearLayout>
+    <com.xiaopeng.xui.widget.XRelativeLayout android:id="@+id/waring_danger_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/waring_danger_margin_top" android:layout_centerHorizontal="true">
+        <com.xiaopeng.xui.widget.XTextView android:textSize="@dimen/text_size_40" android:textColor="@color/text_color_06" android:gravity="center" android:id="@+id/warning_danger_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/waring_danger_text_margin_top" android:maxLines="2" android:layout_centerHorizontal="true"/>
+    </com.xiaopeng.xui.widget.XRelativeLayout>
+</com.xiaopeng.xui.widget.XRelativeLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaopeng.xui.widget.XRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent">
+    <include layout="@layout/include_car_drivingmode_and_speed"/>
+    <include layout="@layout/include_adas_indicator"/>
+    <com.xiaopeng.instrument.widget.BottomStatusBarView android:id="@+id/main_bottom_status_bar" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true"/>
+    <com.xiaopeng.xui.widget.XTextView android:textColor="@color/bottom_bar_unit_text_color" android:id="@+id/car_driving_mode" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/tv_drive_mode"/>
+</com.xiaopeng.xui.widget.XRelativeLayout>

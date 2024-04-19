@@ -1,0 +1,352 @@
+[
+  {
+    "instrument_id": "fixed_1",
+    "pos": 1,
+    "name": "后排左侧座椅安全带未系红色",
+    "type": 0,
+    "img_res_name": "indicator_left_seat_beltsbr_red"
+  },
+  {
+    "instrument_id": "fixed_2",
+    "pos": 1,
+    "name": "后排左侧座椅安全带未系",
+    "type": 0,
+    "img_res_name": "indicator_left_seat_beltsbr"
+  },
+  {
+    "instrument_id": "fixed_3",
+    "pos": 2,
+    "name": "后排中间座椅安全带未系红色",
+    "type": 0,
+    "img_res_name": "indicator_mid_seat_beltsbr_red"
+  },
+  {
+    "instrument_id": "fixed_4",
+    "pos": 2,
+    "name": "后排中间座椅安全带未系",
+    "type": 0,
+    "img_res_name": "indicator_mid_seat_beltsbr"
+  },
+  {
+    "instrument_id": "fixed_5",
+    "pos": 3,
+    "name": "后排右侧座椅安全带提示灯红色",
+    "type": 0,
+    "img_res_name": "indicator_right_seat_beltsbr_red"
+  },
+  {
+    "instrument_id": "fixed_6",
+    "pos": 3,
+    "name": "后排右侧座椅安全带提示灯",
+    "type": 0,
+    "img_res_name": "indicator_right_seat_beltsbr"
+  },
+  {
+    "instrument_id": "fixed_7",
+    "pos": 4,
+    "name": "车门未关好",
+    "type": 1,
+    "img_res_name": "indicator_door"
+  },
+  {
+    "instrument_id": "fixed_8",
+    "pos": 4,
+    "name": "左前车门未关好",
+    "type": 2,
+    "img_res_name": "indicator_door_left_front"
+  },
+  {
+    "instrument_id": "fixed_9",
+    "pos": 4,
+    "name": "右前车门未关好",
+    "type": 2,
+    "img_res_name": "indicator_door_right_front"
+  },
+  {
+    "instrument_id": "fixed_10",
+    "pos": 4,
+    "name": "左后车门未关好",
+    "type": 2,
+    "img_res_name": "indicator_door_left_back"
+  },
+  {
+    "instrument_id": "fixed_11",
+    "pos": 4,
+    "name": "右后车门未关好",
+    "type": 2,
+    "img_res_name": "indicator_door_right_back"
+  },
+  {
+    "instrument_id": "fixed_12",
+    "pos": 5,
+    "name": "主驾座椅安全带未系",
+    "type": 0,
+    "img_res_name": "indicator_edriver_seat"
+  },
+  {
+    "instrument_id": "fixed_18",
+    "pos": 6,
+    "name": "驻车制动器处于制动状态",
+    "type": 0,
+    "img_res_name": "indicator_apb_func_lamp"
+  },
+  {
+    "instrument_id": "fixed_13",
+    "pos": 7,
+    "name": "AVH自动驻车制动",
+    "type": 0,
+    "img_res_name": "indicator_avh_green"
+  },
+  {
+    "instrument_id": "fixed_14",
+    "pos": 7,
+    "name": "AVH自动驻车制动故障",
+    "type": 0,
+    "img_res_name": "indicator_avh_yellow"
+  },
+  {
+    "instrument_id": "fixed_15",
+    "pos": 8,
+    "name": "位置灯",
+    "type": 0,
+    "img_res_name": "indicator_parking_lamp"
+  },
+  {
+    "instrument_id": "fixed_16",
+    "pos": 9,
+    "name": "前照灯近光",
+    "type": 0,
+    "img_res_name": "indicator_elow_beam"
+  },
+  {
+    "instrument_id": "fixed_17",
+    "pos": 9,
+    "name": "前照灯远光",
+    "type": 0,
+    "img_res_name": "indicator_high_bean_lights"
+  },
+  {
+    "instrument_id": "fixed_30",
+    "pos": 9,
+    "name": "自动前照灯近光",
+    "type": 0,
+    "img_res_name": "indicator_auto_elow_beam_green"
+  },
+  {
+    "instrument_id": "fixed_31",
+    "pos": 10,
+    "name": "智能远光灯蓝",
+    "type": 0,
+    "img_res_name": "indicator_smart_high_beam_blue"
+  },
+  {
+    "instrument_id": "fixed_32",
+    "pos": 10,
+    "name": "智能远光灯黄色",
+    "type": 0,
+    "img_res_name": "indicator_smart_high_beam_yellow"
+  },
+  {
+    "instrument_id": "fixed_34",
+    "pos": 10,
+    "name": "自适应前照灯远灰色",
+    "type": 0,
+    "img_res_name": "indicator_smart_high_beam_gery"
+  },
+  {
+    "instrument_id": "fixed_35",
+    "pos": 10,
+    "name": "自适应智能远光灯灰色",
+    "type": 0,
+    "img_res_name": "indicator_smart_high_beam_gery"
+  },
+  {
+    "instrument_id": "fixed_19",
+    "pos": 11,
+    "name": "副驾座椅安全带未系",
+    "type": 0,
+    "img_res_name": "indicator_epsngr_seat"
+  },
+  {
+    "instrument_id": "fixed_22",
+    "pos": 12,
+    "name": "外部充电线连接",
+    "type": 0,
+    "img_res_name": "indicator_charge_light"
+  },
+  {
+    "instrument_id": "fixed_26",
+    "pos": 13,
+    "name": "12V蓄电池充电",
+    "type": 0,
+    "img_res_name": "indicator_bat_12v"
+  },
+  {
+    "instrument_id": "fixed_23",
+    "pos": 14,
+    "name": "定时充电",
+    "type": 0,
+    "img_res_name": "indicator_timer_charge"
+  },
+  {
+    "instrument_id": "fixed_24",
+    "pos": 15,
+    "name": "胎压异常、胎压监测系统故障",
+    "type": 0,
+    "img_res_name": "indicator_tpms_sys_fault_warn"
+  },
+  {
+    "instrument_id": "fixed_25",
+    "pos": 16,
+    "name": "安全气囊故障",
+    "type": 0,
+    "img_res_name": "indicator_airbag_falut"
+  },
+  {
+    "instrument_id": "fixed_33",
+    "pos": 17,
+    "name": "主警告灯",
+    "type": 0,
+    "img_res_name": "indicator_main_warn"
+  },
+  {
+    "instrument_id": "fixed_500",
+    "pos": 18,
+    "name": "左转向灯",
+    "type": 0,
+    "img_res_name": "indicator_left_turn_lamp"
+  },
+  {
+    "instrument_id": "fixed_501",
+    "pos": 19,
+    "name": "右转向灯",
+    "type": 0,
+    "img_res_name": "indicator_right_turn_lamp"
+  },
+  {
+    "instrument_id": "fixed_29",
+    "pos": 20,
+    "name": "后雾灯",
+    "type": 0,
+    "img_res_name": "indicator_fog_lights"
+  },
+  {
+    "instrument_id": "fixed_20",
+    "pos": 21,
+    "name": "EPB电子刹车故障",
+    "type": 0,
+    "img_res_name": "indicator_sys_warnind"
+  },
+  {
+    "instrument_id": "fixed_0",
+    "pos": 22,
+    "name": "制动防抱系统故障",
+    "type": 0,
+    "img_res_name": "indicator_abs_fault"
+  },
+  {
+    "instrument_id": "dynamic_3",
+    "pos": 23,
+    "name": "浮动指示灯占位符",
+    "type": 0,
+    "img_res_name": "indicator_placeholder"
+  },
+  {
+    "instrument_id": "dynamic_1",
+    "pos": 24,
+    "name": "浮动指示灯占位符",
+    "type": 0,
+    "img_res_name": "indicator_placeholder"
+  },
+  {
+    "instrument_id": "fixed_27",
+    "pos": 25,
+    "name": "前碰撞预警",
+    "type": 0,
+    "img_res_name": "indicator_mrr_fcw_red"
+  },
+  {
+    "instrument_id": "fixed_28",
+    "pos": 25,
+    "name": "前碰撞预警功能关闭",
+    "type": 0,
+    "img_res_name": "indicator_mrr_fcw_yellow"
+  },
+  {
+    "instrument_id": "fixed_21",
+    "pos": 26,
+    "name": "制动系统故障（制动防抱除外）",
+    "type": 0,
+    "img_res_name": "indicator_boost_fault_red"
+  },
+  {
+    "instrument_id": "dynamic_2",
+    "pos": 27,
+    "name": "浮动指示灯占位符",
+    "type": 0,
+    "img_res_name": "indicator_placeholder"
+  },
+  {
+    "instrument_id": "dynamic_4",
+    "pos": 28,
+    "name": "浮动指示灯占位符",
+    "type": 0,
+    "img_res_name": "indicator_placeholder"
+  },
+  {
+    "instrument_id": "dynamic_9",
+    "pos": 29,
+    "name": "浮动指示灯占位符",
+    "type": 0,
+    "img_res_name": "indicator_placeholder"
+  },
+  {
+    "instrument_id": "dynamic_11",
+    "pos": 30,
+    "name": "浮动指示灯占位符",
+    "type": 0,
+    "img_res_name": "indicator_placeholder"
+  },
+  {
+    "instrument_id": "dynamic_12",
+    "pos": 31,
+    "name": "浮动指示灯占位符",
+    "type": 0,
+    "img_res_name": "indicator_placeholder"
+  },
+  {
+    "instrument_id": "dynamic_10",
+    "pos": 32,
+    "name": "浮动指示灯占位符",
+    "type": 0,
+    "img_res_name": "indicator_placeholder"
+  },
+  {
+    "instrument_id": "dynamic_5",
+    "pos": 33,
+    "name": "浮动指示灯占位符",
+    "type": 0,
+    "img_res_name": "indicator_placeholder"
+  },
+  {
+    "instrument_id": "dynamic_7",
+    "pos": 34,
+    "name": "浮动指示灯占位符",
+    "type": 0,
+    "img_res_name": "indicator_placeholder"
+  },
+  {
+    "instrument_id": "dynamic_8",
+    "pos": 35,
+    "name": "浮动指示灯占位符",
+    "type": 0,
+    "img_res_name": "indicator_placeholder"
+  },
+  {
+    "instrument_id": "dynamic_6",
+    "pos": 36,
+    "name": "浮动指示灯占位符",
+    "type": 0,
+    "img_res_name": "indicator_placeholder"
+  }
+]

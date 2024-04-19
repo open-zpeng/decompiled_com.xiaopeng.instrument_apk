@@ -1,0 +1,669 @@
+[
+  {
+    "id": 1,
+    "text": "200米后将退出",
+    "img_res_name": "",
+    "emergency_level": 0
+  },
+  {
+    "id": 2,
+    "text": "150米后将退出",
+    "img_res_name": "",
+    "emergency_level": 0
+  },
+  {
+    "id": 3,
+    "text": "100米后将退出",
+    "img_res_name": "",
+    "emergency_level": 0
+  },
+  {
+    "id": 4,
+    "text": "75米后将退出",
+    "img_res_name": "",
+    "emergency_level": 0
+  },
+  {
+    "id": 5,
+    "text": "50米后将退出",
+    "img_res_name": "",
+    "emergency_level": 0
+  },
+  {
+    "id": 6,
+    "text": "请接管方向盘",
+    "img_res_name": "bg_third_lcc_exit_waring",
+    "emergency_level": 2
+  },
+  {
+    "id": 2001,
+    "text": "辅助驾驶NGP已退出",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2003,
+    "text": "辅助驾驶NGP已开启",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2004,
+    "text": "辅助驾驶NGP已退出",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level": 1
+  },
+  {
+    "id": 2005,
+    "text": "辅助驾驶NGP已退出",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level": 1
+  },
+  {
+    "id": 2011,
+    "text": "即将超车",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2012,
+    "text": "即将超车",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2013,
+    "text": "等待旁车通过",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2017,
+    "text": "即将进入匝道",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2018,
+    "text": "等待旁车通过",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2028,
+    "text": "变道已取消",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2032,
+    "text": "避让车辆",
+    "img_res_name": "ic_warn_avoid",
+    "emergency_level": 3
+  },
+  {
+    "id": 2033,
+    "text": "辅助驾驶NGP已退出",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2037,
+    "text": "即将合入主路",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2038,
+    "text": "进入快车道",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2039,
+    "text": "建议手动变道",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level": 0
+  },
+  {
+    "id": 2041,
+    "text": "小心施工",
+    "img_res_name": "ic_warn_construction",
+    "emergency_level": 0
+  },
+  {
+    "id": 2042,
+    "text": "已达到当前道路车速上限",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2045,
+    "text": "一公里后将退出",
+    "img_res_name": "",
+    "emergency_level": 3
+  },
+  {
+    "id": 2046,
+    "text": "雨雾时降速行驶",
+    "img_res_name": "ic_warn_rain",
+    "emergency_level": 1
+  },
+  {
+    "id": 2049,
+    "text": "时距调节不可用",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2050,
+    "text": "建议手动变道",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level": 3
+  },
+  {
+    "id": 2051,
+    "text": "请手动变道",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level": 0
+  },
+  {
+    "id": 2062,
+    "text": "500m后将退出",
+    "img_res_name": "",
+    "emergency_level": 3
+  },
+  {
+    "id": 2064,
+    "text": "小心行人",
+    "img_res_name": "ic_warn_vru",
+    "emergency_level": 0
+  },
+  {
+    "id": 2065,
+    "text": "请保持手握方向盘",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level": 0
+  },
+  {
+    "id": 2066,
+    "text": "即将向右换道",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2068,
+    "text": "小心急弯",
+    "img_res_name": "ic_warn_sharpturn",
+    "emergency_level": 3
+  },
+  {
+    "id": 2069,
+    "text": "请保持手握方向盘",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level": 3
+  },
+  {
+    "id": 2070,
+    "text": "避让前车",
+    "img_res_name": "ic_warn_frontcar",
+    "emergency_level": 3
+  },
+  {
+    "id": 2071,
+    "text": "已自动恢复NGP",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2072,
+    "text": "正在远离大型车辆",
+    "img_res_name": "ic_warn_avoid_van",
+    "emergency_level": 3
+  },
+  {
+    "id": 2076,
+    "text": "即将变道",
+    "img_res_name": "",
+    "emergency_level": 0
+  },
+  {
+    "id": 2077,
+    "text": "即将变道",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2078,
+    "text": "请合理控制车速",
+    "img_res_name": "ic_warn_sharpturn",
+    "emergency_level": 3
+  },
+  {
+    "id": 2101,
+    "text": "交通灯异常，小心驾驶",
+    "img_res_name": "ic_warn_traffic_light",
+    "emergency_level": 3
+  },
+  {
+    "id": 2102,
+    "text": "有障碍物，减速避让",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level": 1
+  },
+  {
+    "id": 2103,
+    "text": "前方疑似事故，小心慢行",
+    "img_res_name": "",
+    "emergency_level": 3
+  },
+  {
+    "id": 2104,
+    "text": "请保持手握方向盘",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level": 0
+  },
+  {
+    "id": 2105,
+    "text": "正在绕行",
+    "img_res_name": "ic_warn_detour",
+    "emergency_level": 1
+  },
+  {
+    "id": 2106,
+    "text": "前方信号灯路口",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2107,
+    "text": "继续通行",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2108,
+    "text": "停车等待",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2109,
+    "text": "继续通行",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2110,
+    "text": "继续通行",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2111,
+    "text": "辅助驾驶NGP已退出",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level": 1
+  },
+  {
+    "id": 2112,
+    "text": "继续通行",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2113,
+    "text": "请接管方向盘",
+    "img_res_name": "bg_third_lcc_exit_waring",
+    "emergency_level": 2
+  },
+  {
+    "id": 2115,
+    "text": "辅助驾驶NGP已退出",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level": 1
+  },
+  {
+    "id": 2118,
+    "text": "小心行人",
+    "img_res_name": "ic_warn_vru",
+    "emergency_level": 3
+  },
+  {
+    "id": 2120,
+    "text": "即将变道",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2122,
+    "text": "变道已取消",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2123,
+    "text": "即将驶出当前车道",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2124,
+    "text": "即将向左变道",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2125,
+    "text": "即将向右变道",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2126,
+    "text": "即将变道",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2127,
+    "text": "请手动变道",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level": 0
+  },
+  {
+    "id": 2129,
+    "text": "直行通过",
+    "img_res_name": "ic_warn_forward",
+    "emergency_level": 1
+  },
+  {
+    "id": 2131,
+    "text": "即将右转",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2132,
+    "text": "正在避让",
+    "img_res_name": "ic_warn_comity",
+    "emergency_level": 3
+  },
+  {
+    "id": 2133,
+    "text": "小心驾驶",
+    "img_res_name": "ic_warn_sharpturn",
+    "emergency_level": 1
+  },
+  {
+    "id": 2134,
+    "text": "礼让行人",
+    "img_res_name": "ic_warn_comity",
+    "emergency_level": 3
+  },
+  {
+    "id": 2136,
+    "text": "小心合流",
+    "img_res_name": "ic_warn_confluence",
+    "emergency_level": 1
+  },
+  {
+    "id": 2137,
+    "text": "即将变道",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2138,
+    "text": "前方拥堵，即将变道",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2139,
+    "text": "请手动通过",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level": 0
+  },
+  {
+    "id": 2140,
+    "text": "请手动通过",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level": 0
+  },
+  {
+    "id": 2141,
+    "text": "请手动变道",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level": 0
+  },
+  {
+    "id": 2142,
+    "text": "请手动通过",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level": 0
+  },
+  {
+    "id": 2143,
+    "text": "激光雷达被遮挡，请清洁",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2144,
+    "text": "辅助驾驶NGP已退出",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2145,
+    "text": "请注意观察红绿灯",
+    "img_res_name": "ic_warn_traffic_light",
+    "emergency_level": 3
+  },
+  {
+    "id": 2147,
+    "text": "前方交警，请注意观察",
+    "img_res_name": "ic_warn_traffic_police",
+    "emergency_level": 1
+  },
+  {
+    "id": 2148,
+    "text": "前方掉头",
+    "img_res_name": "ic_warn_uturn",
+    "emergency_level": 1
+  },
+  {
+    "id": 2150,
+    "text": "小心行人",
+    "img_res_name": "ic_warn_pedestrian",
+    "emergency_level": 0
+  },
+  {
+    "id": 2151,
+    "text": "小心行人",
+    "img_res_name": "ic_warn_pedestrian",
+    "emergency_level": 0
+  },
+  {
+    "id": 2152,
+    "text": "小心行人",
+    "img_res_name": "ic_warn_pedestrian",
+    "emergency_level": 3
+  },
+  {
+    "id": 2153,
+    "text": "小心前方倒车",
+    "img_res_name": "ic_warn_sharpturn",
+    "emergency_level": 1
+  },
+  {
+    "id": 2154,
+    "text": "避让公交车",
+    "img_res_name": "ic_warn_frontcar",
+    "emergency_level": 1
+  },
+  {
+    "id": 2158,
+    "text": "即将变道",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2159,
+    "text": "前方掉头",
+    "img_res_name": "ic_warn_uturn",
+    "emergency_level": 0
+  },
+  {
+    "id": 2163,
+    "text": "请手动通过",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level": 0
+  },
+  {
+    "id": 2164,
+    "text": "100m后将退出",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level": 0
+  },
+  {
+    "id": 2165,
+    "text": "100m后将退出",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level": 0
+  },
+  {
+    "id": 2166,
+    "text": "150m后NGP将退出",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level": 0
+  },
+  {
+    "id": 2167,
+    "text": "150后NGP将退出",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level": 0
+  },
+  {
+    "id": 2168,
+    "text": "800m后NGP退出 到达终点",
+    "img_res_name": "",
+    "emergency_level":1
+  },
+  {
+    "id": 2169,
+    "text": "500m后NGP退出 到达终点",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2170,
+    "text": "500m后NGP退出，驶离功能可用区域",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2171,
+    "text": "NGP已恢复",
+    "img_res_name": "",
+    "emergency_level": 1
+  },
+  {
+    "id": 2172,
+    "text": "150m后NGP将退出",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level":0
+  },
+  {
+    "id": 2173,
+    "text": "150m后NGP将退出",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level":0
+  },
+  {
+    "id": 2174,
+    "text": "150m后NGP将退出",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level":0
+  },
+  {
+    "id": 2175,
+    "text": "150m后NGP将退出",
+    "img_res_name": "ic_warn_wheel",
+    "emergency_level":0
+  },
+  {
+    "id": 2180,
+    "text": "请接管方向盘",
+    "img_res_name": "bg_third_lcc_exit_waring",
+    "emergency_level":2
+  },
+  {
+    "id": 3016,
+    "text": "请接管方向盘",
+    "img_res_name": "bg_third_lcc_exit_waring",
+    "emergency_level": 2
+  },
+  {
+    "id": 3034,
+    "text": "请接管方向盘",
+    "img_res_name": "bg_third_lcc_exit_waring",
+    "emergency_level": 2
+  },
+  {
+    "id": 3035,
+    "text": "请接管方向盘",
+    "img_res_name": "bg_third_lcc_exit_waring",
+    "emergency_level": 2
+  },
+  {
+    "id": 3040,
+    "text": "请接管方向盘",
+    "img_res_name": "bg_third_lcc_exit_waring",
+    "emergency_level": 2
+  },
+  {
+    "id": 3047,
+    "text": "请踩刹车",
+    "img_res_name": "bg_third_brake_exit_waring",
+    "emergency_level": 2
+  },
+  {
+    "id": 3053,
+    "text": "请踩刹车",
+    "img_res_name": "bg_third_brake_exit_waring",
+    "emergency_level": 2
+  },
+  {
+    "id": 3057,
+    "text": "请接管方向盘",
+    "img_res_name": "bg_third_lcc_exit_waring",
+    "emergency_level": 2
+  },
+  {
+    "id": 3059,
+    "text": "请接管方向盘",
+    "img_res_name": "bg_third_lcc_exit_waring",
+    "emergency_level": 2
+  },
+  {
+    "id": 3060,
+    "text": "请接管方向盘",
+    "img_res_name": "bg_third_lcc_exit_waring",
+    "emergency_level": 2
+  },
+  {
+    "id": 3063,
+    "text": "请接管方向盘",
+    "img_res_name": "bg_third_lcc_exit_waring",
+    "emergency_level": 2
+  },
+  {
+    "id": 3121,
+    "text": "请接管方向盘",
+    "img_res_name": "bg_third_lcc_exit_waring",
+    "emergency_level": 2
+  }
+
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "instrument_id": "dynamic_0",
+    "name": "EPS电子助力转向",
+    "type": 0,
+    "img_res_name": "indicator_eps_warn"
+  },
+  {
+    "instrument_id": "dynamic_1",
+    "name": "ESP电子稳定系统",
+    "type": 0,
+    "img_res_name": "indicator_esp_fault"
+  },
+  {
+    "instrument_id": "dynamic_2",
+    "name": "ESP电子稳定系统off",
+    "type": 0,
+    "img_res_name": "indicator_esp_off"
+  },
+  {
+    "instrument_id": "dynamic_3",
+    "name": "占位",
+    "type": 0,
+    "img_res_name": ""
+  },
+  {
+    "instrument_id": "dynamic_4",
+    "name": "XPILOT故障",
+    "type": 0,
+    "img_res_name": "indicator_xpilot_fault"
+  },
+  {
+    "instrument_id": "dynamic_5",
+    "name": "电动系统故障",
+    "type": 0,
+    "img_res_name": "indicator_everr_lamp"
+  },
+  {
+    "instrument_id": "dynamic_6",
+    "name": "电机及控制器过热",
+    "type": 0,
+    "img_res_name": "indicator_emotor_sys_hot"
+  },
+  {
+    "instrument_id": "dynamic_7",
+    "name": "动力蓄电池低荷电状态",
+    "type": 0,
+    "img_res_name": "indicator_bat_soclow"
+  },
+  {
+    "instrument_id": "dynamic_8",
+    "name": "动力蓄电池高温",
+    "type": 0,
+    "img_res_name": "indicator_bat_red"
+  },
+  {
+    "instrument_id": "dynamic_9",
+    "name": "动力蓄电池故障",
+    "type": 0,
+    "img_res_name": "indicator_bat_fault"
+  },
+  {
+    "instrument_id": "dynamic_10",
+    "name": "动力蓄电池过冷",
+    "type": 0,
+    "img_res_name": "indicator_bat_cold"
+  },
+  {
+    "instrument_id": "dynamic_11",
+    "name": "动力蓄电池切断黄色",
+    "type": 0,
+    "img_res_name": "indicator_cut_off"
+  },
+  {
+    "instrument_id": "dynamic_12",
+    "name": "占位",
+    "type": 0,
+    "img_res_name": ""
+  },
+  {
+    "instrument_id": "dynamic_13",
+    "name": "占位",
+    "type": 0,
+    "img_res_name": ""
+  },
+  {
+    "instrument_id": "dynamic_14",
+    "name": "驱动功率限制",
+    "type": 0,
+    "img_res_name": "indicator_power_limit"
+  },
+  {
+    "instrument_id": "dynamic_15",
+    "name": "热管理冷却液温度高",
+    "type": 0,
+    "img_res_name": "indicator_coolat"
+  },
+  {
+    "instrument_id": "dynamic_16",
+    "name": "占位",
+    "type": 0,
+    "img_res_name": ""
+  },
+  {
+    "instrument_id": "dynamic_17",
+    "name": "占位",
+    "type": 0,
+    "img_res_name": ""
+  },
+  {
+    "instrument_id": "dynamic_18",
+    "name": "前碰撞预警功能关闭",
+    "type": 0,
+    "img_res_name": "indicator_mrr_fcw_off"
+  },
+  {
+    "instrument_id": "dynamic_19",
+    "name": "HDC陡坡缓降控制系统绿色",
+    "type": 0,
+    "img_res_name": "indicator_hdc_green"
+  },
+  {
+    "instrument_id": "dynamic_20",
+    "name": "HDC陡坡缓降控制系统黄色",
+    "type": 0,
+    "img_res_name": "indicator_hdc_yellow"
+  },
+  {
+    "instrument_id": "dynamic_23",
+    "name": "车道偏离故障(LDW/LKA/ELK)",
+    "type": 0,
+    "img_res_name": "indicator_lane_departure_failure"
+  }
+]

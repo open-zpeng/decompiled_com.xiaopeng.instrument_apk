@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaopeng.xui.widget.XRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/main_root" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.xiaopeng.MeterSD.MainSurfaceView android:id="@+id/surface_driver_layout" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_centerInParent="true"/>
+    <com.xiaopeng.xui.widget.XImageView android:id="@+id/top_mask" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <com.xiaopeng.instrument.widget.LeftInfoViewGroup android:id="@+id/main_left_info" android:layout_width="wrap_content" android:layout_height="match_parent" android:minWidth="@dimen/info_width" android:layout_alignParentStart="true"/>
+    <com.xiaopeng.instrument.widget.RightInfoViewGroup android:id="@+id/main_right_info" android:layout_width="wrap_content" android:layout_height="match_parent" android:minWidth="@dimen/info_width" android:layout_alignParentEnd="true"/>
+</com.xiaopeng.xui.widget.XRelativeLayout>

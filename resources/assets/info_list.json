@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "name": "导航",
+    "img_res_name": "ic_applist_navigation"
+  },
+  {
+    "id": 1,
+    "name": "音乐",
+    "img_res_name": "ic_applist_media"
+  },
+  {
+    "id": 2,
+    "name": "车况",
+    "img_res_name": "ic_applist_car"
+  },
+  {
+    "id": 3,
+    "name": "能耗",
+    "img_res_name": "ic_applist_power"
+  },
+  {
+    "id": 4,
+    "name": "里程",
+    "img_res_name": "ic_applist_trip"
+  }
+]

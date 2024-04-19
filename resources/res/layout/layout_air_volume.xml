@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaopeng.xui.widget.XRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="@dimen/min_osd_wrapper_width" android:layout_height="@dimen/min_osd_wrapper_height">
+    <com.xiaopeng.xui.widget.XRelativeLayout android:background="@drawable/bg_osd" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/min_osd_bg_margin_top" android:layout_centerHorizontal="true">
+        <com.xiaopeng.xui.widget.XImageView android:id="@+id/air_volume_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/air_volume_name_icon_margin_top" android:src="@drawable/ic_air_volume" android:layout_marginEnd="@dimen/air_volume_name_icon_padding" android:layout_toStartOf="@+id/volume_name"/>
+        <com.xiaopeng.xui.widget.XTextView android:textSize="@dimen/air_volume_name_text_size" android:textColor="@color/osd_media_volume_title_color" android:gravity="center" android:id="@+id/volume_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/air_volume_name_margin_top" android:text="@string/air_volume_name" android:includeFontPadding="false" android:layout_centerHorizontal="true"/>
+        <com.xiaopeng.xui.widget.XImageView android:id="@+id/volume_seek_bar" android:background="@drawable/volume_bg_lane" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/air_volume_seek_bar_margin_top" android:layout_centerHorizontal="true"/>
+    </com.xiaopeng.xui.widget.XRelativeLayout>
+</com.xiaopeng.xui.widget.XRelativeLayout>

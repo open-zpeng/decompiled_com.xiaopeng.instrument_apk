@@ -1,0 +1,560 @@
+[
+  {
+    "id": 1,
+    "des": "左侧前超声波雷达",
+    "sensor_type": 1,
+    "sensor_body_type": 1,
+    "body_full": {
+      "left": 264,
+      "top": 215
+    },
+    "body_front": {
+      "left": 230,
+      "top": 234
+    },
+    "body_rear": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  {
+    "id": 2,
+    "des": "前左超声波雷达",
+    "sensor_type": 1,
+    "sensor_body_type": 1,
+    "body_full": {
+      "left": 286,
+      "top": 187
+    },
+    "body_front": {
+      "left": 270,
+      "top": 190
+    },
+    "body_rear": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  {
+    "id": 3,
+    "des": "前左中超声波雷达",
+    "sensor_type": 1,
+    "sensor_body_type": 1,
+    "body_full": {
+      "left": 310,
+      "top": 181
+    },
+    "body_front": {
+      "left": 305,
+      "top": 184
+    },
+    "body_rear": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  {
+    "id": 4,
+    "des": "前右中超声波雷达",
+    "sensor_type": 1,
+    "sensor_body_type": 1,
+    "body_full": {
+      "left": 344,
+      "top": 181
+    },
+    "body_front": {
+      "left": 349,
+      "top": 184
+    },
+    "body_rear": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  {
+    "id": 5,
+    "des": "前右超声波雷达",
+    "sensor_type": 1,
+    "sensor_body_type": 1,
+    "body_full": {
+      "left": 368,
+      "top": 187
+    },
+    "body_front": {
+      "left": 384,
+      "top": 190
+    },
+    "body_rear": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  {
+    "id": 6,
+    "des": "右侧前超声波雷达",
+    "sensor_type": 1,
+    "sensor_body_type": 1,
+    "body_full": {
+      "left": 390,
+      "top": 215
+    },
+    "body_front": {
+      "left": 424,
+      "top": 234
+    },
+    "body_rear": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  {
+    "id": 7,
+    "des": "前中毫米波雷达",
+    "sensor_type": 2,
+    "sensor_body_type": 1,
+    "body_full": {
+      "left": 327,
+      "top": 180
+    },
+    "body_front": {
+      "left": 327,
+      "top": 183
+    },
+    "body_rear": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  {
+    "id": 8,
+    "des": "左前角毫米波雷达状态",
+    "sensor_type": 2,
+    "sensor_body_type": 1,
+    "body_full": {
+      "left": 270,
+      "top": 199
+    },
+    "body_front": {
+      "left": 242,
+      "top": 208
+    },
+    "body_rear": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  {
+    "id": 9,
+    "des": "右前角毫米波雷达状态",
+    "sensor_type": 2,
+    "sensor_body_type": 1,
+    "body_full": {
+      "left": 384,
+      "top": 199
+    },
+    "body_front": {
+      "left": 412,
+      "top": 208
+    },
+    "body_rear": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  {
+    "id": 10,
+    "des": "前环视摄像头",
+    "sensor_type": 3,
+    "sensor_body_type": 1,
+    "body_full": {
+      "left": 327,
+      "top": 200
+    },
+    "body_front": {
+      "left": 327,
+      "top": 190
+    },
+    "body_rear": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  {
+    "id": 11,
+    "des": "左环视摄像头",
+    "sensor_type": 3,
+    "sensor_body_type": 1,
+    "body_full": {
+      "left": 258,
+      "top": 282
+    },
+    "body_front": {
+      "left": 221,
+      "top": 347
+    },
+    "body_rear": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  {
+    "id": 12,
+    "des": "右环视摄像头",
+    "sensor_type": 3,
+    "sensor_body_type": 1,
+    "body_full": {
+      "left": 396,
+      "top": 282
+    },
+    "body_front": {
+      "left": 433,
+      "top": 347
+    },
+    "body_rear": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  {
+    "id": 13,
+    "des": "左前单目摄像头",
+    "sensor_type": 4,
+    "sensor_body_type": 1,
+    "body_full": {
+      "left": 266,
+      "top": 270
+    },
+    "body_front": {
+      "left": 227,
+      "top": 331
+    },
+    "body_rear": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  {
+    "id": 14,
+    "des": "右前单目摄像头",
+    "sensor_type": 4,
+    "sensor_body_type": 1,
+    "body_full": {
+      "left": 388,
+      "top": 270
+    },
+    "body_front": {
+      "left": 427,
+      "top": 331
+    },
+    "body_rear": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  {
+    "id": 15,
+    "des": "左后单目摄像头",
+    "sensor_type": 4,
+    "sensor_body_type": 1,
+    "body_full": {
+      "left": 266,
+      "top": 301
+    },
+    "body_front": {
+      "left": 227,
+      "top": 379
+    },
+    "body_rear": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  {
+    "id": 16,
+    "des": "右后单目摄像头",
+    "sensor_type": 4,
+    "sensor_body_type": 1,
+    "body_full": {
+      "left": 388,
+      "top": 301
+    },
+    "body_front": {
+      "left": 427,
+      "top": 379
+    },
+    "body_rear": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  {
+    "id": 17,
+    "des": "居中单目摄像头",
+    "sensor_type": 4,
+    "sensor_body_type": 1,
+    "body_full": {
+      "left": 327,
+      "top": 317
+    },
+    "body_front": {
+      "left": 327,
+      "top": 360
+    },
+    "body_rear": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  {
+    "id": 18,
+    "des": "智能驾驶三目摄像头",
+    "sensor_type": 5,
+    "sensor_body_type": 1,
+    "body_full": {
+      "left": 327,
+      "top": 304
+    },
+    "body_front": {
+      "left": 327,
+      "top": 347
+    },
+    "body_rear": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  {
+    "id": 19,
+    "des": "驾驶员感知摄像头",
+    "sensor_type": 6,
+    "sensor_body_type": 1,
+    "body_full": {
+      "left": 304,
+      "top": 300
+    },
+    "body_front": {
+      "left": 290,
+      "top": 384
+    },
+    "body_rear": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  {
+    "id": 20,
+    "des": "左侧后超声波雷达",
+    "sensor_type": 1,
+    "sensor_body_type": 2,
+    "body_full": {
+      "left": 267,
+      "top": 461
+    },
+    "body_front": {
+      "left": 0,
+      "top": 0
+    },
+    "body_rear": {
+      "left": 233,
+      "top": 417
+    }
+  },
+  {
+    "id": 21,
+    "des": "后左超声波雷达",
+    "sensor_type": 1,
+    "sensor_body_type": 2,
+    "body_full": {
+      "left": 293,
+      "top": 483
+    },
+    "body_front": {
+      "left": 0,
+      "top": 0
+    },
+    "body_rear": {
+      "left": 273,
+      "top": 453
+    }
+  },
+  {
+    "id": 22,
+    "des": "后左中超声波雷达",
+    "sensor_type": 1,
+    "sensor_body_type": 2,
+    "body_full": {
+      "left": 312,
+      "top": 487
+    },
+    "body_front": {
+      "left": 0,
+      "top": 0
+    },
+    "body_rear": {
+      "left": 301,
+      "top": 457
+    }
+  },
+  {
+    "id": 23,
+    "des": "后右中超声波雷达",
+    "sensor_type": 1,
+    "sensor_body_type": 2,
+    "body_full": {
+      "left": 341,
+      "top": 487
+    },
+    "body_front": {
+      "left": 0,
+      "top": 0
+    },
+    "body_rear": {
+      "left": 353,
+      "top": 457
+    }
+  },
+  {
+    "id": 24,
+    "des": "后右超声波雷达",
+    "sensor_type": 1,
+    "sensor_body_type": 2,
+    "body_full": {
+      "left": 360,
+      "top": 484
+    },
+    "body_front": {
+      "left": 0,
+      "top": 0
+    },
+    "body_rear": {
+      "left": 381,
+      "top": 453
+    }
+  },
+  {
+    "id": 25,
+    "des": "右侧后超声波雷达",
+    "sensor_type": 1,
+    "sensor_body_type": 2,
+    "body_full": {
+      "left": 387,
+      "top": 461
+    },
+    "body_front": {
+      "left": 0,
+      "top": 0
+    },
+    "body_rear": {
+      "left": 421,
+      "top": 417
+    }
+  },
+  {
+    "id": 26,
+    "des": "后单目摄像头",
+    "sensor_type": 4,
+    "sensor_body_type": 2,
+    "body_full": {
+      "left": 327,
+      "top": 473
+    },
+    "body_front": {
+      "left": 0,
+      "top": 0
+    },
+    "body_rear": {
+      "left": 327,
+      "top": 441
+    }
+  },
+  {
+    "id": 27,
+    "des": "左后角中毫米波雷达",
+    "sensor_type": 1,
+    "sensor_body_type": 2,
+    "body_full": {
+      "left": 276,
+      "top": 476
+    },
+    "body_front": {
+      "left": 0,
+      "top": 0
+    },
+    "body_rear": {
+      "left": 247,
+      "top": 441
+    }
+  },
+  {
+    "id": 28,
+    "des": "右后角中毫米波雷达",
+    "sensor_type": 1,
+    "sensor_body_type": 2,
+    "body_full": {
+      "left": 377,
+      "top": 476
+    },
+    "body_front": {
+      "left": 0,
+      "top": 0
+    },
+    "body_rear": {
+      "left": 407,
+      "top": 441
+    }
+  },
+  {
+    "id": 29,
+    "des": "后环视摄像头",
+    "sensor_type": 3,
+    "sensor_body_type": 2,
+    "body_full": {
+      "left": 327,
+      "top": 489
+    },
+    "body_front": {
+      "left": 0,
+      "top": 0
+    },
+    "body_rear": {
+      "left": 327,
+      "top": 460
+    }
+  },
+  {
+    "id": 30,
+    "des": "左侧激光雷达",
+    "sensor_type": 8,
+    "sensor_body_type": 1,
+    "body_full": {
+      "left": 270,
+      "top": 187
+    },
+    "body_front": {
+      "left": 250,
+      "top": 188
+    },
+    "body_rear": {
+      "left": 0,
+      "top": 0
+    }
+  },
+  {
+    "id": 31,
+    "des": "右侧激光雷达",
+    "sensor_type": 8,
+    "sensor_body_type": 1,
+    "body_full": {
+      "left": 384,
+      "top": 187
+    },
+    "body_front": {
+      "left": 404,
+      "top": 188
+    },
+    "body_rear": {
+      "left": 0,
+      "top": 0
+    }
+  }
+]

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaopeng.xui.widget.XRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="@drawable/sr_bg_caution" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <com.xiaopeng.xui.widget.XImageView android:id="@+id/sr_top_tips_img" android:layout_width="@dimen/navi_sr_top_tips_img_size" android:layout_height="@dimen/navi_sr_top_tips_img_size" android:src="@drawable/ic_mid_normal_traffic_accident" android:layout_centerVertical="true" android:layout_marginStart="@dimen/navi_sr_top_tips_img_start"/>
+    <com.xiaopeng.xui.widget.XTextView android:textSize="@dimen/text_size_27" android:textColor="@color/navi_sr_top_tips_color" android:id="@+id/sr_top_tips_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="前方事故" android:layout_toRightOf="@+id/sr_top_tips_img" android:layout_centerVertical="true" android:layout_marginStart="@dimen/navi_sr_top_tips_text_start"/>
+</com.xiaopeng.xui.widget.XRelativeLayout>

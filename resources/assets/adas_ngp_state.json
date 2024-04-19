@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "name": "关闭",
+    "img_res_name": ""
+  },
+  {
+    "id": 1,
+    "name": "可用",
+    "img_res_name": "ic_ngp_ready"
+  },
+  {
+    "id": 2,
+    "name": "激活",
+    "img_res_name": "ic_ngp_active"
+  },
+  {
+    "id": 3,
+    "name": "退出",
+    "img_res_name": "ic_ngp_exit"
+  },
+  {
+    "id": 4,
+    "name": "暂态",
+    "img_res_name": "ic_ngp_active"
+  }
+]

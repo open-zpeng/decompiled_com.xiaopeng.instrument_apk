@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaopeng.xui.widget.XRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/sensor_fault_root_view" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.xiaopeng.xui.widget.XImageView android:id="@+id/sensor_car_bg_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true"/>
+    <com.xiaopeng.xui.widget.XImageView android:id="@+id/sensor_radar_bg_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true"/>
+    <com.xiaopeng.xui.widget.XTextView android:textSize="@dimen/text_size_30" android:textColor="@color/text_color_03" android:gravity="center" android:id="@+id/sensor_toast" android:background="@drawable/bg_toast_normal" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/sensor_toast_tip_top" android:layout_centerHorizontal="true" android:paddingStart="@dimen/sensor_toast_tip_start" android:paddingEnd="@dimen/sensor_toast_tip_end"/>
+</com.xiaopeng.xui.widget.XRelativeLayout>

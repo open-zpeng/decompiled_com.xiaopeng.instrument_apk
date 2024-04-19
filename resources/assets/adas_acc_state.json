@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "name": "关闭",
+    "img_res_name": ""
+  },
+  {
+    "id": 1,
+    "name": "准备",
+    "img_res_name": "ic_acc_ready"
+  },
+  {
+    "id": 2,
+    "name": "启动",
+    "img_res_name": "ic_acc_start"
+  },
+  {
+    "id": 3,
+    "name": "失败",
+    "img_res_name": "ic_acc_open_fail"
+  },
+  {
+    "id": 4,
+    "name": "限速",
+    "img_res_name": "ic_acc_sas"
+  }
+]

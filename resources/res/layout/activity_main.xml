@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaopeng.xui.widget.XFrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.xiaopeng.xui.widget.XFrameLayout android:id="@+id/fragment_container" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <com.xiaopeng.xui.widget.XImageView android:id="@+id/space_bg" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <com.xiaopeng.instrument.widget.CommonView android:id="@+id/common_view" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <com.xiaopeng.instrument.widget.ToastView android:layout_gravity="center_horizontal" android:tag="AUTO_DRIVE_TOAST" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <com.xiaopeng.instrument.widget.sr.SRBottomTipsView android:layout_gravity="center_horizontal" android:id="@+id/sr_bottom_tips" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/navi_sr_bottom_tips_top"/>
+    <com.xiaopeng.xui.widget.XFrameLayout android:id="@+id/off_layout" android:background="@color/black" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <com.xiaopeng.instrument.widget.ToastView android:layout_gravity="center_horizontal" android:tag="GENERIC_TOAST" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <com.xiaopeng.instrument.widget.IndicatorView android:id="@+id/indicator_layout" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <com.xiaopeng.instrument.widget.DangerHaloView android:id="@+id/danger_halo_layout" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <include layout="@layout/include_ota"/>
+    <include layout="@layout/include_test_color"/>
+    <com.xiaopeng.instrument.widget.FragChangeAnimView android:id="@+id/frag_change_layout" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <com.xiaopeng.instrument.widget.LeftOsdViewGroup android:id="@+id/main_left_osd" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/osd_root_width" android:layout_alignParentStart="true"/>
+    <com.xiaopeng.instrument.widget.RightOsdViewGroup android:id="@+id/main_right_osd" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/osd_root_width" android:layout_alignParentEnd="true"/>
+    <com.xiaopeng.xui.widget.XFrameLayout android:background="@drawable/layer_bg_cover" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</com.xiaopeng.xui.widget.XFrameLayout>

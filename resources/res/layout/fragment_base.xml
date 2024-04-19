@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaopeng.xui.widget.XRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/main_root" android:layout_width="match_parent" android:layout_height="match_parent">
+    <include layout="@layout/include_car_drivingmode_and_speed"/>
+    <include layout="@layout/include_adas_indicator"/>
+    <com.xiaopeng.instrument.widget.LeftInfoViewGroup android:id="@+id/main_left_info" android:layout_width="wrap_content" android:layout_height="match_parent" android:minWidth="@dimen/info_width" android:layout_alignParentStart="true"/>
+    <com.xiaopeng.instrument.widget.LeftOsdViewGroup android:id="@+id/main_left_osd" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/osd_root_width" android:layout_alignParentStart="true"/>
+    <com.xiaopeng.instrument.widget.RightInfoViewGroup android:id="@+id/main_right_info" android:layout_width="wrap_content" android:layout_height="match_parent" android:minWidth="@dimen/info_width" android:layout_alignParentEnd="true"/>
+    <com.xiaopeng.instrument.widget.RightOsdViewGroup android:id="@+id/main_right_osd" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/osd_root_width" android:layout_alignParentEnd="true"/>
+    <com.xiaopeng.instrument.widget.BottomStatusBarView android:id="@+id/main_bottom_status_bar" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true"/>
+</com.xiaopeng.xui.widget.XRelativeLayout>

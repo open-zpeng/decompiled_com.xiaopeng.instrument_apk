@@ -1,0 +1,1773 @@
+[
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "能量回收等级变为高",
+    "type": "GENERAL",
+    "warningId": 0
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "能量回收等级变为低",
+    "type": "GENERAL",
+    "warningId": 1
+  },
+  {
+    "emergency_level": 0,
+    "text_style": "multi_line",
+    "img_res_name": "indicator_everr_lamp",
+    "text": "电池过温，远离车辆\n请联系维修",
+    "type": "GENERAL",
+    "warningId": 2
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "动力已就绪",
+    "type": "GENERAL",
+    "warningId": 3
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "请切换至非P挡释放驻车",
+    "type": "GENERAL",
+    "warningId": 4
+  },
+  {
+    "emergency_level": 0,
+    "text_style": "single_line",
+    "img_res_name": "indicator_apb_func_lamp",
+    "text": "驻车力不足，请在平地停车",
+    "type": "GENERAL",
+    "warningId": 5
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "请关上车门，再释放驻车",
+    "type": "GENERAL",
+    "warningId": 6
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "请踩刹车释放电子驻车",
+    "type": "GENERAL",
+    "warningId": 7
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "indicator_apb_func_lamp",
+    "text": "动态制动中",
+    "type": "GENERAL",
+    "warningId": 8
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "车辆性能受限，请谨慎驾驶",
+    "type": "GENERAL",
+    "warningId": 9
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "车辆限速，请谨慎驾驶",
+    "type": "GENERAL",
+    "warningId": 10
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "indicator_everr_lamp",
+    "text": "车辆跛行，请联系维修",
+    "type": "GENERAL",
+    "warningId": 11
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "multi_line",
+    "img_res_name": "indicator_everr_lamp",
+    "text": "车辆立刻失去动力 ，紧急\n靠边停车",
+    "type": "GENERAL",
+    "warningId": 12
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "multi_line",
+    "img_res_name": "warning_default",
+    "text": "车辆即将失去动力 ，紧急\n靠边停车",
+    "type": "GENERAL",
+    "warningId": 13
+  },
+  {
+    "emergency_level": 0,
+    "text_style": "multi_line",
+    "img_res_name": "indicator_everr_lamp",
+    "text": "碰撞后已切断动力，请联系\n维修",
+    "type": "GENERAL",
+    "warningId": 14
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "巡航异常退出",
+    "type": "GENERAL",
+    "warningId": 15
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "multi_line",
+    "img_res_name": "warning_default",
+    "text": "插枪连接状态，无法切\n换挡位",
+    "type": "GENERAL",
+    "warningId": 16
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "挡位故障，请联系维修",
+    "type": "GENERAL",
+    "warningId": 17
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "请关上车门，系好安全带",
+    "type": "GENERAL",
+    "warningId": 18
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "请先踩刹车，再切换挡位",
+    "type": "GENERAL",
+    "warningId": 19
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "请先减速，再切换挡位",
+    "type": "GENERAL",
+    "warningId": 20
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "multi_line",
+    "img_res_name": "warning_default",
+    "text": "车辆行驶中，已切换为N挡\n请注意安全",
+    "type": "GENERAL",
+    "warningId": 21
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "驻车解除，请踩刹车",
+    "type": "GENERAL",
+    "warningId": 22
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "indicator_airbag_falut",
+    "text": "请检查安全气囊",
+    "type": "GENERAL",
+    "warningId": 23
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "请检查左侧转向灯",
+    "type": "GENERAL",
+    "warningId": 24
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "请检查右侧转向灯",
+    "type": "GENERAL",
+    "warningId": 25
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "请检查左右侧转向灯",
+    "type": "GENERAL",
+    "warningId": 26
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "请检查近光灯",
+    "type": "GENERAL",
+    "warningId": 27
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "请检查后雾灯",
+    "type": "GENERAL",
+    "warningId": 28
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "未检测到钥匙",
+    "type": "GENERAL",
+    "warningId": 29
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "钥匙在车内",
+    "type": "GENERAL",
+    "warningId": 30
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "请更换钥匙电池",
+    "type": "GENERAL",
+    "warningId": 31
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "车身控制器系统故障",
+    "type": "GENERAL",
+    "warningId": 32
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "电源分配故障",
+    "type": "GENERAL",
+    "warningId": 33
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "indicator_tpms_sys_fault_warn",
+    "text": "胎压监测系统故障",
+    "type": "GENERAL",
+    "warningId": 34
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "indicator_tpms_sys_fault_warn",
+    "text": "请检查胎压传感器",
+    "type": "GENERAL",
+    "warningId": 35
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "TPMS系统校准中",
+    "type": "GENERAL",
+    "warningId": 36
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "轮胎压力过低",
+    "type": "GENERAL",
+    "warningId": 37
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "轮胎压力过高",
+    "type": "GENERAL",
+    "warningId": 38
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "轮胎温度过高",
+    "type": "GENERAL",
+    "warningId": 39
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "indicator_boost_fault_red",
+    "text": "请补充制动液",
+    "type": "GENERAL",
+    "warningId": 40
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "电动真空泵故障",
+    "type": "GENERAL",
+    "warningId": 41
+  },
+  {
+    "emergency_level": 0,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "紧急辅助制动",
+    "type": "GENERAL",
+    "warningId": 42
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "indicator_eps_warn",
+    "text": "请检查EPS",
+    "type": "GENERAL",
+    "warningId": 43
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "因故障无法断开高压",
+    "type": "GENERAL",
+    "warningId": 44
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "主动格栅故障",
+    "type": "GENERAL",
+    "warningId": 45
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "indicator_bat_12v",
+    "text": "蓄电池电流传感器故障",
+    "type": "GENERAL",
+    "warningId": 46
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "indicator_bat_12v",
+    "text": "低压蓄电池电压过低",
+    "type": "GENERAL",
+    "warningId": 47
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "请确认未连接充电枪后\n再驾驶",
+    "type": "GENERAL",
+    "warningId": 48
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "multi_line",
+    "img_res_name": "warning_default",
+    "text": "当前电池温度极低，不能正\n常启动，请充电后尝试",
+    "type": "GENERAL",
+    "warningId": 49
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "空调系统故障，请联系维修",
+    "type": "GENERAL",
+    "warningId": 50
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "左前车门未关",
+    "type": "GENERAL",
+    "warningId": 51
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "右前车门未关",
+    "type": "GENERAL",
+    "warningId": 52
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "左后车门未关",
+    "type": "GENERAL",
+    "warningId": 53
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "右后车门未关",
+    "type": "GENERAL",
+    "warningId": 54
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "前舱盖未关闭，请及时关闭",
+    "type": "GENERAL",
+    "warningId": 55
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "后备箱未关闭",
+    "type": "GENERAL",
+    "warningId": 56
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "左充电口盖未关",
+    "type": "GENERAL",
+    "warningId": 57
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "右充电口盖未关",
+    "type": "GENERAL",
+    "warningId": 58
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "indicator_edriver_seat",
+    "text": "请系好驾驶员安全带",
+    "type": "GENERAL",
+    "warningId": 59
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "indicator_epsngr_seat",
+    "text": "请乘客系好安全带",
+    "type": "GENERAL",
+    "warningId": 60
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "indicator_avh_green",
+    "text": "AutoHold功能已激活",
+    "type": "GENERAL",
+    "warningId": 61
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "续航里程低，请及时充电",
+    "type": "GENERAL",
+    "warningId": 62
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "multi_line",
+    "img_res_name": "warning_default",
+    "text": "电池即将耗尽，请控制好车\n速，谨慎驾驶",
+    "type": "GENERAL",
+    "warningId": 63
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "multi_line",
+    "img_res_name": "warning_default",
+    "text": "电量已耗尽，将无法继\n续行驶",
+    "type": "GENERAL",
+    "warningId": 64
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "直流枪与交流枪同时插入\n具体操作请关注中控大屏",
+    "type": "GENERAL",
+    "warningId": 65
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "充电速度慢",
+    "type": "GENERAL",
+    "warningId": 66
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "indicator_bat_cold",
+    "des": "不在充电界面",
+    "text": "电池温度低，请谨慎驾驶",
+    "type": "GENERAL",
+    "warningId": 67
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "des": "充电界面",
+    "text": "电池温度低，充电速度慢\n请合理规划充电时间",
+    "type": "GENERAL",
+    "warningId": 68
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "电池加热中",
+    "type": "GENERAL",
+    "warningId": 69
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "电池冷却中",
+    "type": "GENERAL",
+    "warningId": 70
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "请拔充电枪后，启动车辆",
+    "type": "GENERAL",
+    "warningId": 71
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "充电操作错误，请检查操作",
+    "type": "GENERAL",
+    "warningId": 72
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "充电异常停止",
+    "type": "GENERAL",
+    "warningId": 73
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "multi_line",
+    "img_res_name": "warning_default",
+    "text": "充电口温度过高，导致充电\n停止",
+    "type": "GENERAL",
+    "warningId": 74
+  },
+  {
+    "emergency_level": 0,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "紧急制动辅助已启用",
+    "type": "AUTO_DRIVE",
+    "warningId": 75
+  },
+  {
+    "emergency_level": 0,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "自动紧急制动已启用",
+    "type": "AUTO_DRIVE",
+    "warningId": 76
+  },
+  {
+    "emergency_level": 0,
+    "text_style": "multi_line",
+    "img_res_name": "indicator_mrr_fcw_red",
+    "text": "前向碰撞预防功能故障，请\n小心驾驶",
+    "type": "AUTO_DRIVE",
+    "warningId": 77
+  },
+  {
+    "emergency_level": 0,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "辅助驾驶ACC被动退出",
+    "type": "AUTO_DRIVE",
+    "warningId": 78
+  },
+  {
+    "emergency_level": 0,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "危险，请踩刹车接管",
+    "type": "AUTO_DRIVE",
+    "warningId": 79
+  },
+  {
+    "emergency_level": 0,
+    "text_style": "single_line",
+    "img_res_name": "ic_one_two_lcc_exit_waring",
+    "des": "LCC被动延迟退出过程中",
+    "text": "请立即接管车辆",
+    "type": "AUTO_DRIVE",
+    "warningId": 80
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "des": "LCC被动延迟退出已完成",
+    "text": "辅助驾驶LCC已退出",
+    "type": "AUTO_DRIVE",
+    "warningId": 81
+  },
+  {
+    "emergency_level": 2,
+    "text_style": "use_template",
+    "img_res_name": "warning_default",
+    "des": "LCC被动立即退出",
+    "text": "请立即接管车辆",
+    "type": "AUTO_DRIVE",
+    "warningId": 82
+  },
+  {
+    "emergency_level": 2,
+    "text_style": "use_template",
+    "img_res_name": "warning_default",
+    "des": "脱手三级报警",
+    "text": "请立即接管车辆",
+    "type": "AUTO_DRIVE",
+    "warningId": 83
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "multi_line",
+    "img_res_name": "warning_default",
+    "text": "辅助驾驶ACC无法激活\n安全带未系",
+    "type": "AUTO_DRIVE",
+    "warningId": 84
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "multi_line",
+    "img_res_name": "warning_default",
+    "text": "辅助驾驶ACC无法激活\n车门未关",
+    "type": "AUTO_DRIVE",
+    "warningId": 85
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "multi_line",
+    "img_res_name": "warning_default",
+    "text": "辅助驾驶ACC无法激活\n不在D挡",
+    "type": "AUTO_DRIVE",
+    "warningId": 86
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "multi_line",
+    "img_res_name": "warning_default",
+    "text": "辅助驾驶ACC无法激活\n电子手刹激活",
+    "type": "AUTO_DRIVE",
+    "warningId": 87
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "辅助驾驶ACC无法激活",
+    "type": "AUTO_DRIVE",
+    "warningId": 88
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "辅助驾驶ACC已退出",
+    "type": "AUTO_DRIVE",
+    "warningId": 89
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "multi_line",
+    "img_res_name": "ic_stamp_on_the_pedal_red",
+    "text": "踩下加速踏板时\n辅助驾驶无法减速",
+    "type": "AUTO_DRIVE",
+    "warningId": 90
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "请保持注意力并手握方向盘",
+    "type": "AUTO_DRIVE",
+    "warningId": 91
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "辅助驾驶LCC无法激活",
+    "type": "AUTO_DRIVE",
+    "warningId": 92
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "multi_line",
+    "img_res_name": "warning_default",
+    "text": "辅助驾驶LCC无法激活\n雨刷启动",
+    "type": "AUTO_DRIVE",
+    "warningId": 93
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "multi_line",
+    "img_res_name": "warning_default",
+    "text": "辅助驾驶LCC无法激活\n处于急转弯道",
+    "type": "AUTO_DRIVE",
+    "warningId": 94
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "multi_line",
+    "img_res_name": "warning_default",
+    "text": "辅助驾驶LCC无法激活\n车道线不清晰",
+    "type": "AUTO_DRIVE",
+    "warningId": 95
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "des": "LCC立即退出",
+    "text": "辅助驾驶LCC已退出",
+    "type": "AUTO_DRIVE",
+    "warningId": 96
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "ic_one_two_lcc_exit_waring",
+    "des": "脱手一级报警",
+    "text": "请轻转方向盘",
+    "type": "AUTO_DRIVE",
+    "warningId": 97
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "ic_one_two_lcc_exit_waring",
+    "des": "脱手二级报警",
+    "text": "请轻转方向盘",
+    "type": "AUTO_DRIVE",
+    "warningId": 98
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "multi_line",
+    "img_res_name": "warning_default",
+    "text": "由于长时间未接管车辆，本\n次驾驶周期不可用",
+    "type": "AUTO_DRIVE",
+    "warningId": 99
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "des": "左",
+    "text": "当前不适合变道",
+    "type": "AUTO_DRIVE",
+    "warningId": 100
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "des": "右",
+    "text": "当前不适合变道",
+    "type": "AUTO_DRIVE",
+    "warningId": 101
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "变道取消",
+    "type": "AUTO_DRIVE",
+    "warningId": 102
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "变道完成",
+    "type": "AUTO_DRIVE",
+    "warningId": 103
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "辅助驾驶ACC故障",
+    "type": "AUTO_DRIVE",
+    "warningId": 104
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "辅助驾驶LCC功能故障",
+    "type": "AUTO_DRIVE",
+    "warningId": 105
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "智能辅助驾驶功能不可用",
+    "type": "AUTO_DRIVE",
+    "warningId": 106
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "车道偏离预警功能故障",
+    "type": "AUTO_DRIVE",
+    "warningId": 107
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "智能辅助变道功能故障",
+    "type": "AUTO_DRIVE",
+    "warningId": 108
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "交通标志识别功能不可用",
+    "type": "AUTO_DRIVE",
+    "warningId": 109
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "multi_line",
+    "img_res_name": "warning_default",
+    "text": "两侧及后方雷达预警功能暂\n时受限",
+    "type": "AUTO_DRIVE",
+    "warningId": 110
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "智能辅助泊车功能故障",
+    "type": "AUTO_DRIVE",
+    "warningId": 111
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "智能远光灯功能故障",
+    "type": "AUTO_DRIVE",
+    "warningId": 112
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "左侧开门危险",
+    "type": "AUTO_DRIVE",
+    "warningId": 113
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "右侧开门危险",
+    "type": "AUTO_DRIVE",
+    "warningId": 114
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "智能辅助泊车进行中",
+    "type": "AUTO_DRIVE",
+    "warningId": 115
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "智能辅助泊车暂停",
+    "type": "AUTO_DRIVE",
+    "warningId": 116
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "智能辅助泊车取消",
+    "type": "AUTO_DRIVE",
+    "warningId": 117
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "智能辅助泊车完成",
+    "type": "AUTO_DRIVE",
+    "warningId": 118
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "智能辅助泊出中",
+    "type": "AUTO_DRIVE",
+    "warningId": 119
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "智能辅助泊出已暂停",
+    "type": "AUTO_DRIVE",
+    "warningId": 120
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "智能辅助泊出已取消",
+    "type": "AUTO_DRIVE",
+    "warningId": 121
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "智能辅助泊出已完成",
+    "type": "AUTO_DRIVE",
+    "warningId": 122
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "召唤中",
+    "type": "AUTO_DRIVE",
+    "warningId": 123
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "召唤暂停",
+    "type": "AUTO_DRIVE",
+    "warningId": 124
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "召唤已结束",
+    "type": "AUTO_DRIVE",
+    "warningId": 125
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "正在识别车位，请降低车速",
+    "type": "AUTO_DRIVE",
+    "warningId": 126
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "车位识别中",
+    "type": "AUTO_DRIVE",
+    "warningId": 127
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "请挂R挡进行智能辅助泊车",
+    "type": "AUTO_DRIVE",
+    "warningId": 128
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "multi_line",
+    "img_res_name": "warning_default",
+    "text": "请关注前车状态\n合理控制车速",
+    "type": "AUTO_DRIVE",
+    "warningId": 129
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "multi_line",
+    "img_res_name": "warning_default",
+    "text": "辅助驾驶ACC无法激活\n请行驶至开阔区域",
+    "type": "AUTO_DRIVE",
+    "warningId": 130
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "辅助驾驶不可用",
+    "type": "AUTO_DRIVE",
+    "warningId": 131
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "记忆泊车暂不可用",
+    "type": "AUTO_DRIVE",
+    "warningId": 132
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "请降低车速",
+    "type": "AUTO_DRIVE",
+    "warningId": 133
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "请系好安全带",
+    "type": "AUTO_DRIVE",
+    "warningId": 134
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "HDC模式下记忆泊车\n不可用",
+    "type": "AUTO_DRIVE",
+    "warningId": 135
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "请松开加速踏板",
+    "type": "AUTO_DRIVE",
+    "warningId": 136
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "请松开制动踏板",
+    "type": "AUTO_DRIVE",
+    "warningId": 137
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "请关闭车门",
+    "type": "AUTO_DRIVE",
+    "warningId": 138
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "记忆泊车已激活",
+    "type": "AUTO_DRIVE",
+    "warningId": 139
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "multi_line",
+    "img_res_name": "warning_default",
+    "text": "请松开制动踏板",
+    "type": "AUTO_DRIVE",
+    "warningId": 140
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "warning_default",
+    "text": "记忆泊车已退出",
+    "type": "AUTO_DRIVE",
+    "warningId": 141
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "multi_line",
+    "img_res_name": "warning_default",
+    "text": "请立即接管，记忆泊车\n已退出",
+    "type": "AUTO_DRIVE",
+    "warningId": 142
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "multi_line",
+    "img_res_name": "",
+    "text": "请踩下加速踏板\n以恢复巡航",
+    "type": "AUTO_DRIVE",
+    "warningId": 143
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "multi_line",
+    "img_res_name": "warning_default",
+    "text": "智能辅助变道不可用\n不满足车速要求",
+    "type": "AUTO_DRIVE",
+    "warningId": 144
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "LDW功能故障",
+    "type": "AUTO_DRIVE",
+    "warningId": 145
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "车道偏离抑制功能故障",
+    "type": "AUTO_DRIVE",
+    "warningId": 146
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "紧急车道偏离辅助功能故障",
+    "type": "AUTO_DRIVE",
+    "warningId": 147
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "辅助驾驶暂不可用\n请清洁前向单目摄像头",
+    "type": "AUTO_DRIVE",
+    "warningId": 148
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "辅助驾驶暂不可用\n请清洁前向三目摄像头",
+    "type": "AUTO_DRIVE",
+    "warningId": 149
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "辅助驾驶暂不可用\n请清洁前向毫米波雷达",
+    "type": "AUTO_DRIVE",
+    "warningId": 150
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "多功能摄像头过热保护\n请稍后尝试激活辅助驾驶功能",
+    "type": "AUTO_DRIVE",
+    "warningId": 151
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "辅助驾驶暂不可用\n请清洁前侧毫米波雷达",
+    "type": "AUTO_DRIVE",
+    "warningId": 152
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "辅助驾驶暂不可用\n车身控制模块功能受限，请联系售后",
+    "type": "AUTO_DRIVE",
+    "warningId": 153
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "辅助驾驶暂不可用\nESP功能受限，请联系售后",
+    "type": "AUTO_DRIVE",
+    "warningId": 154
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "辅助驾驶暂不可用\nEPS功能受限，请联系售后",
+    "type": "AUTO_DRIVE",
+    "warningId": 155
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "辅助驾驶暂不可用\nEPB功能受限，请联系售后",
+    "type": "AUTO_DRIVE",
+    "warningId": 156
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "辅助驾驶暂不可用\nSRS功能受限，请联系售后",
+    "type": "AUTO_DRIVE",
+    "warningId": 157
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "辅助驾驶暂不可用\nVCU功能受限，请联系售后",
+    "type": "AUTO_DRIVE",
+    "warningId": 158
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "辅助驾驶暂不可用\n请确保轮胎压力正常",
+    "type": "AUTO_DRIVE",
+    "warningId": 159
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "辅助驾驶暂不可用\n操作开关异常，请联系售后",
+    "type": "AUTO_DRIVE",
+    "warningId": 160
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "辅助驾驶暂不可用\n大屏功能受限，请联系售后",
+    "type": "AUTO_DRIVE",
+    "warningId": 161
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "辅助驾驶暂不可用\n请清洁车身摄像头",
+    "type": "AUTO_DRIVE",
+    "warningId": 162
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "辅助驾驶暂不可用\n请清洁后侧毫米波雷达",
+    "type": "AUTO_DRIVE",
+    "warningId": 163
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "请检查日行灯",
+    "type": "GENERAL",
+    "warningId": 164
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "能量回收等级变为中",
+    "type": "GENERAL",
+    "warningId": 165
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "能量回收暂时性减弱",
+    "type": "GENERAL",
+    "warningId": 166
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "电池包不匹配，请联系售后\n确认",
+    "type": "GENERAL",
+    "warningId": 167
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "请手动变道",
+    "type": "AUTO_DRIVE",
+    "warningId": 168
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "ic_one_two_lcc_exit_waring",
+    "text": "请接管车辆",
+    "type": "AUTO_DRIVE",
+    "warningId": 169
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "ic_beware_shape_turns",
+    "text": "小心急弯",
+    "type": "AUTO_DRIVE",
+    "warningId": 170
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "ic_beware_pedestrian",
+    "text": "小心行人",
+    "type": "AUTO_DRIVE",
+    "warningId": 171
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "ic_beware_construction",
+    "text": "小心施工",
+    "type": "AUTO_DRIVE",
+    "warningId": 172
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "辅助驾驶NGP已开启",
+    "type": "AUTO_DRIVE",
+    "warningId": 173
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "辅助驾驶NGP已退出",
+    "type": "AUTO_DRIVE",
+    "warningId": 174
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "本次变道取消",
+    "type": "AUTO_DRIVE",
+    "warningId": 175
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "后向碰撞预警激活\n正在双闪提示后车",
+    "type": "AUTO_DRIVE",
+    "warningId": 176
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "ic_distraction_warning",
+    "text": "请保持关注路况",
+    "type": "AUTO_DRIVE",
+    "warningId": 177
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "ic_distraction_warning",
+    "text": "车内摄像头视野受限",
+    "type": "AUTO_DRIVE",
+    "warningId": 178
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "ic_one_two_lcc_exit_waring",
+    "text": "立即控制方向盘\n车辆偏离车道",
+    "type": "AUTO_DRIVE",
+    "warningId": 179
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "ic_one_two_lcc_exit_waring",
+    "text": "立即控制方向盘\n车辆偏离车道",
+    "type": "AUTO_DRIVE",
+    "warningId": 180
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "请开启辅助驾驶LCC开关\n在触摸屏操作",
+    "type": "AUTO_DRIVE",
+    "warningId": 181
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "智能限速辅助功能已退出",
+    "type": "AUTO_DRIVE",
+    "warningId": 182
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "如需执行限速\n请按压左侧滚轮",
+    "type": "AUTO_DRIVE",
+    "warningId": 183
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "如需解除限速\n请按压左侧滚轮",
+    "type": "AUTO_DRIVE",
+    "warningId": 184
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "无法维持限定车速，请接管",
+    "type": "AUTO_DRIVE",
+    "warningId": 185
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "优先执行你所设置的车速\n本次巡航不再辅助调节车速",
+    "type": "AUTO_DRIVE",
+    "warningId": 186
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "智能限速辅助功能不可用",
+    "type": "AUTO_DRIVE",
+    "warningId": 187
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "请清洁左侧激光雷达",
+    "type": "AUTO_DRIVE",
+    "warningId": 188
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "请清洁右侧激光雷达",
+    "type": "AUTO_DRIVE",
+    "warningId": 189
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "请先开启辅助驾驶ACC再\n使用",
+    "type": "AUTO_DRIVE",
+    "warningId": 190
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "首次使用辅助驾驶ACC\n请通过挡位拨杆开启",
+    "type": "AUTO_DRIVE",
+    "warningId": 191
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "请检查后位置灯",
+    "type": "GENERAL",
+    "warningId": 192
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "已启用展车模式\n不允许驾驶",
+    "type": "GENERAL",
+    "warningId": 193
+  },
+  {
+    "emergency_level": 0,
+    "text_style": "",
+    "img_res_name": "ic_one_two_lcc_exit_waring",
+    "text": "检测到您可能疲劳驾驶\n请轻转方向盘",
+    "type": "AUTO_DRIVE",
+    "warningId": 194
+  },
+  {
+    "emergency_level": 2,
+    "text_style": "",
+    "img_res_name": "",
+    "text": "检测到您已疲劳驾驶\n请立即接管车辆",
+    "type": "AUTO_DRIVE",
+    "warningId": 195
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "",
+    "text": "辅助驾驶ACC已激活",
+    "type": "AUTO_DRIVE",
+    "warningId": 196
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "",
+    "text": "辅助驾驶不可用，请退出工\n厂模式",
+    "type": "AUTO_DRIVE",
+    "warningId": 197
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "",
+    "text": "前向碰撞预防功能受限，请\n小心驾驶",
+    "type": "AUTO_DRIVE",
+    "warningId": 198
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "",
+    "text": "摄像头遮挡，前向碰撞预防\n功能受限",
+    "type": "AUTO_DRIVE",
+    "warningId": 199
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "",
+    "text": "前向三目摄像头故障，辅助\n驾驶功能不可用",
+    "type": "AUTO_DRIVE",
+    "warningId": 200
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "",
+    "text": "外后视镜处摄像头故障，自\n动转向辅助驾驶功能不可用",
+    "type": "AUTO_DRIVE",
+    "warningId": 201
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "",
+    "text": "翼子板处摄像头故障，自动\n转向辅助驾驶功能不可用",
+    "type": "AUTO_DRIVE",
+    "warningId": 202
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "",
+    "text": "辅助驾驶功能不可用,请清\n洁前视三目摄像头",
+    "type": "AUTO_DRIVE",
+    "warningId": 203
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "",
+    "text": "自动转向辅助驾驶功能不可\n用，请清洁外后视镜处摄像头",
+    "type": "AUTO_DRIVE",
+    "warningId": 204
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "",
+    "text": "自动转向辅助驾驶功能不可\n用,请清洁翼子板处摄像头",
+    "type": "AUTO_DRIVE",
+    "warningId": 205
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "",
+    "text": "当前路段，辅助驾驶车速\n上限80km/h",
+    "type": "AUTO_DRIVE",
+    "warningId": 207
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "",
+    "text": "请手动驾驶",
+    "type": "AUTO_DRIVE",
+    "warningId": 208
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "ic_one_two_lcc_exit_waring",
+    "text": "一分钟内再次触发脱手预警\n将禁用辅助驾驶功能",
+    "type": "AUTO_DRIVE",
+    "warningId": 209
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "",
+    "text": "辅助驾驶功能初始化中，请稍候",
+    "type": "AUTO_DRIVE",
+    "warningId": 210
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "",
+    "text": "当前路段，辅助驾驶车速\n上限100km/h",
+    "type": "AUTO_DRIVE",
+    "warningId": 211
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "",
+    "text": "辅助驾驶LCC无法激活 激光雷达脏污",
+    "type": "AUTO_DRIVE",
+    "warningId": 212
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "",
+    "text": "辅助驾驶LCC无法激活，激光雷达标定中",
+    "type": "AUTO_DRIVE",
+    "warningId": 213
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "",
+    "text": "辅助驾驶LCC无法激活，激光雷达标定异常",
+    "type": "AUTO_DRIVE",
+    "warningId": 214
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "",
+    "text": "辅助驾驶LCC已暂停",
+    "type": "AUTO_DRIVE",
+    "warningId": 215
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "",
+    "text": "即将绕行，请注意观察",
+    "type": "AUTO_DRIVE",
+    "warningId": 216
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "",
+    "text": "小心行人",
+    "type": "AUTO_DRIVE",
+    "warningId": 217
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "",
+    "text": "请立即减速",
+    "type": "AUTO_DRIVE",
+    "warningId": 218
+  },
+  {
+    "emergency_level": 1,
+    "text_style": "single_line",
+    "img_res_name": "",
+    "text": "请立即减速",
+    "type": "AUTO_DRIVE",
+    "warningId": 219
+  },
+  {
+    "emergency_level": 2,
+    "text_style": "use_template",
+    "img_res_name": "warning_default",
+    "text": "请立即接管",
+    "type": "AUTO_DRIVE",
+    "warningId": 220
+  }
+]

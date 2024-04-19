@@ -1,0 +1,20 @@
+[
+  {
+    "id": "0",
+    "name": "",
+    "type": 0,
+    "img_res_name": ""
+  },
+  {
+    "id": "1",
+    "name": "",
+    "type": 0,
+    "img_res_name": "tsr_rate_limiting_type1"
+  },
+  {
+    "id": "2",
+    "name": "",
+    "type": 0,
+    "img_res_name": "tsr_rate_limiting_type2"
+  }
+]

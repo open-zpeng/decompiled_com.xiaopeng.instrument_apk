@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "name": "关闭",
+    "img_res_name": ""
+  },
+  {
+    "id": 1,
+    "name": "准备",
+    "img_res_name": "ic_cc_ready"
+  },
+  {
+    "id": 2,
+    "name": "启动",
+    "img_res_name": "ic_cc_start"
+  },
+  {
+    "id": 3,
+    "name": "失败",
+    "img_res_name": "ic_cc_fail"
+  }
+]

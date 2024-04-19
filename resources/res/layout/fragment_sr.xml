@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaopeng.xui.widget.XRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/main_root" android:layout_width="match_parent" android:layout_height="match_parent">
+    <com.xiaopeng.instrument.widget.NaviSurfaceView android:id="@+id/sr_map" android:visibility="visible" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <com.xiaopeng.xui.widget.XImageView android:layout_width="match_parent" android:layout_height="wrap_content" android:src="@drawable/sr_top_mask"/>
+    <com.xiaopeng.instrument.widget.sr.SRLeftInfoViewGroup android:id="@+id/main_left_info" android:layout_width="wrap_content" android:layout_height="match_parent" android:minWidth="@dimen/info_width" android:layout_alignParentStart="true"/>
+    <com.xiaopeng.instrument.widget.sr.SRRightInfoViewGroup android:id="@+id/main_right_info" android:layout_width="wrap_content" android:layout_height="match_parent" android:minWidth="@dimen/info_width" android:layout_alignParentEnd="true"/>
+</com.xiaopeng.xui.widget.XRelativeLayout>

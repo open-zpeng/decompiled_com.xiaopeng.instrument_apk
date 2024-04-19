@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.xiaopeng.xui.widget.XRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:background="@android:color/transparent" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_alignParentEnd="true">
+    <com.xiaopeng.xui.widget.XRelativeLayout android:background="@android:color/transparent" android:layout_width="@dimen/info_width" android:layout_height="@dimen/info_height" android:layout_marginTop="50dp" android:layout_marginEnd="@dimen/info_margin_end" android:layout_alignParentEnd="true">
+        <com.xiaopeng.xui.widget.XRecyclerView android:id="@+id/info_list" android:background="@drawable/right_info_bg_chosen_tab" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="@dimen/info_list_height" android:layout_centerVertical="true" android:layout_marginEnd="@dimen/info_list_margin_end" android:layout_alignParentEnd="true"/>
+    </com.xiaopeng.xui.widget.XRelativeLayout>
+    <com.xiaopeng.xui.widget.XRelativeLayout android:id="@+id/card_view" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_alignParentEnd="true">
+        <com.xiaopeng.instrument.widget.MapCardView android:id="@+id/info_map" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginEnd="@dimen/info_map_margin_start"/>
+        <include layout="@layout/include_media_card"/>
+        <com.xiaopeng.instrument.widget.CarConditionCardView android:id="@+id/info_car_condition" android:visibility="gone" android:layout_width="@dimen/info_width" android:layout_height="@dimen/info_height" android:layout_marginTop="@dimen/info_margin_top" android:layout_marginEnd="@dimen/info_margin_end"/>
+        <com.xiaopeng.instrument.widget.PowerConsumptionCardView android:id="@+id/info_power_consumption" android:visibility="gone" android:layout_width="@dimen/info_width" android:layout_height="@dimen/info_height" android:layout_marginTop="@dimen/info_margin_top" android:layout_marginEnd="@dimen/info_margin_end" app:left_card="false"/>
+        <com.xiaopeng.instrument.widget.OdoMeterCardView android:id="@+id/info_power_odo_meter" android:visibility="gone" android:layout_width="@dimen/info_width" android:layout_height="@dimen/info_height" android:layout_marginTop="@dimen/info_margin_top" android:layout_marginEnd="@dimen/info_margin_end"/>
+    </com.xiaopeng.xui.widget.XRelativeLayout>
+</com.xiaopeng.xui.widget.XRelativeLayout>
